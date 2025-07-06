@@ -49,7 +49,7 @@ export const admin = new AdminJS({
         { resource: Models.Counter }
     ],
     branding: {
-        companyName: "ApnaMart",
+        companyName: "Satvaksha",
         withMadeWithLove: false,
         defaultTheme: dark.id,
         availableTheme: [dark, light, noSidebar],
